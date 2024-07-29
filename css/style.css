@@ -55,6 +55,7 @@ body {
   font-family: "Roboto";
   transition-duration: var(--transition-duration);
   overflow-x: hidden;
+   overflow-y: hidden;
 }
 
 .container {
